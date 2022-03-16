@@ -1,1 +1,1 @@
-# linearalgebra
+# Linear Algebra module in Python
